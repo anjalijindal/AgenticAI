@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-17 07:26:04</sys_created_on>
+        <sys_id>6398dbfa8353c7106611e5d0deaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_689497_agentic_0_testtable.x_689497_agentic_0.admin</sys_name>
+        <sys_package display_value="Agentic AI" source="x_689497_agentic_0">db07133a8353c7106611e5d0deaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agentic AI">db07133a8353c7106611e5d0deaad3d0</sys_scope>
+        <sys_security_acl display_value="x_689497_agentic_0_testtable">6f98dbfa8353c7106611e5d0deaad38a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6398dbfa8353c7106611e5d0deaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-17 07:26:04</sys_updated_on>
+        <sys_user_role display_value="x_689497_agentic_0.admin" name="x_689497_agentic_0.admin">5707133a8353c7106611e5d0deaad3e6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
