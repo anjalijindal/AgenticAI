@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pull_test" label="Pull Test" language="en" table="x_689497_agentic_0_testtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pull_test</element>
+            <help/>
+            <hint/>
+            <label>Pull Test</label>
+            <language>en</language>
+            <name>x_689497_agentic_0_testtable</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-17 09:02:26</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Pull Test</sys_name>
+            <sys_package display_value="Agentic AI" source="x_689497_agentic_0">db07133a8353c7106611e5d0deaad3d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agentic AI">db07133a8353c7106611e5d0deaad3d0</sys_scope>
+            <sys_update_name>sys_documentation_x_689497_agentic_0_testtable_pull_test_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-17 09:02:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
